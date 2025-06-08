@@ -17,4 +17,13 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/keshavGaur1/celebal_week3_assignment_adminDashboard.git
 
+2. **Install dependencies**
+```bash
+npm install
+
+3. **Run the development server**
+```bash
+npm run dev
+
+
    
