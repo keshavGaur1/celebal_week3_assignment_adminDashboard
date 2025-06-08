@@ -1,12 +1,20 @@
-# React + Vite
+# Dashboarding
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Develop a React Admin Dashboard app with customizable themes, tables, charts, calendar, and Kanban board. Implement interactive features, seamless integration, and smooth user experience
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these instructions to get a copy of the project up and running on your local machine.
 
-## Expanding the ESLint configuration
+### Prerequisites
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Make sure you have the following installed on your system:
+- [Node.js](https://nodejs.org/) (includes npm)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/keshavGaur1/celebal_week3_assignment_adminDashboard.git
+
+   
